@@ -1,6 +1,6 @@
 # Clothing Patterns 
 
-This software is designed to provide home sewers an easy way to draw sewing patterns.
+This software is designed to provide home dressmakers an easy way to draw sewing patterns.
 There's a lot to do, the development started right now (2017-11-05).
 
 ## Features:
